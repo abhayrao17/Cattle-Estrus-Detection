@@ -1,0 +1,7 @@
+pyserial
+joblib
+pandas
+scikit-learn
+adafruit-io
+python-dotenv
+matplotlib
